@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img height="500px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm Sayan Bag</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -147,7 +147,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanoops&show_icons=true&locale=en&layout=compact" alt="sayanoops" />
   <img src="https://github-readme-stats.vercel.app/api?username=sayanoops&show_icons=true&locale=en" alt="sayanoops" />
   <img height="195px" src="https://c.tenor.com/Hg2M_GS2gvMAAAAC/tenor.gif" alt="fun gif">
